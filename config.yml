@@ -1,0 +1,57 @@
+baseURL: ''
+languageCode: en-us
+title: Divyansha Sehgal
+theme: "PaperMod"
+
+# profile mode on the theme
+
+params:
+
+
+  # profile mode
+    profileMode:
+        enabled: true
+        title: "hi there, i'm divyansha" # optional default will be site title
+        subtitle: "researching tech ethics, politics of information & platforms"
+        imageUrl: /img/pro pic.jpg # optional
+        imageTitle: "profile image" # optional
+        imageWidth: 170 # custom size
+        imageHeight: 170 # custom size
+
+    #social icons
+    socialIcons: # optional
+        - name: email
+          url: "mailto:divyansha.ylt@gmail.com"
+        - name: twitter
+          url: "https://twitter.com/div_online"
+        - name : medium
+          url: "https://medium.com/@divyansha.sehgal"
+        - name : linkedin
+          url: "https://www.linkedin.com/in/divyansha-sehgal/"
+
+
+# menu on the home page
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: ''
+          weight: 10
+        - identifier: bio
+          name: About
+          url: /bio/
+          weight: 20
+        - identifier: research 
+          name: Research 
+          url: /research
+          weight: 30
+        - identifier: essays 
+          name: Essays
+          url: /essays
+          weight: 40
+        - identifier: blog
+          name: Blog
+          url: 'https://divyansha.substack.com/'
+          weight: 50
+
