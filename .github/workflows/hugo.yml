@@ -44,7 +44,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: exampleSite
+          ref: Divyansha Sehgal
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
@@ -52,7 +52,7 @@ jobs:
         run: git submodule update --init --recursive
       - name: Update theme to Latest commit
         run: git submodule update --remote --merge
-        
+
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
