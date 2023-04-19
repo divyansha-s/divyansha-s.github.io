@@ -40,16 +40,19 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass Embedded
         run: sudo snap install dart-sass-embedded
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: recursive
-          fetch-depth: 0
+          ref: exampleSite
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        uses: actions/configure-pages@v1
+      - name: Get Theme
+        run: git submodule update --init --recursive
+      - name: Update theme to Latest commit
+        run: git submodule update --remote --merge
+        
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
