@@ -3,10 +3,6 @@ languageCode: en-us
 title: Divyansha Sehgal
 theme: "PaperMod"
 
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
-
 
 # profile mode on the theme
 
