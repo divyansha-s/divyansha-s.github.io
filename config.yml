@@ -41,7 +41,7 @@ menu:
     main:
         - identifier: home
           name: Home
-          url: 'https://divyansha-s.github.io'
+          url: ''
           weight: 10
         - identifier: bio
           name: About
