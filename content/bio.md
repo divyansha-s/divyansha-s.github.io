@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2023-04-10T15:04:23+05:30
 layout: "bio"
 url: "/bio"
 summary: bio

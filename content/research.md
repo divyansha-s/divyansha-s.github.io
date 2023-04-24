@@ -9,7 +9,7 @@ summary: research reports, and repsonses to policy etc
 Divyansha Sehgal  
 *The Centre for Internet and Society*  
 
-**[Design of Domestic Work Platforms: A Case Study of Urban Company](https://cis-india.org/raw/apc-cis-divyansha-sehgal-yathrath-designing-domestic-work-platforms)**
+**[Design of Domestic Work Platforms: A Case Study of Urban Company](https://cis-india.org/raw/apc-cis-divyansha-sehgal-yathrath-designing-domestic-work-platforms)**  
 Divyansha Sehgal, Yatharth  
 *The Centre for Internet and Society*
 
@@ -29,5 +29,5 @@ Anamika Kundu, Digvijay Chaudhary, Divyansha Sehgal, Isha Suri and Torsha Sarkar
 *The Centre for Internet and Society*
 
 **[Submission to the Facebook Oversight Board: Policy on Cross-checks](https://cis-india.org/internet-governance/blog/submission-to-the-facebook-oversight-board-policy-on-cross-checks)**  
-Anamika Kundu, Digvijay Singh, Divyansha Sehgal and Torsha Sarkar
+Anamika Kundu, Digvijay Singh, Divyansha Sehgal and Torsha Sarkar  
 *The Centre for Internet and Society*
