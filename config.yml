@@ -3,17 +3,20 @@ languageCode: en-us
 title: Divyansha Sehgal
 theme: "PaperMod"
 
-
 # profile mode on the theme
 
 params:
+
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Divyansha Sehgal
+    keywords: [Website, Blog, Portfolio]
 
 
   # profile mode
     profileMode:
         enabled: true
         title: "hi there, i'm divyansha" # optional default will be site title
-        subtitle: "researching tech ethics, politics of information & platforms"
+        subtitle: "research into technology ethics, politics of information & platforms"
         imageUrl: /img/pro pic.jpg # optional
         imageTitle: "profile image" # optional
         imageWidth: 170 # custom size

@@ -5,6 +5,10 @@ url: "/research"
 summary: research reports, and repsonses to policy etc
 ---
 
+**[Online Censorship: Perspectives From Content Creators and Comparative Law on Section 69A of the Information Technology Act](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404965)**  
+Divyansha Sehgal, Gurshabad Grover  
+*Preprint*
+
 **[Security of Open Source Software : A Survey of Technical Stakeholders’ Perceptions and Actions](https://cis-india.org/openness/security-of-open-source-software-a-survey-of-technical-stakeholders2019-perceptions-and-actions-1)**  
 Divyansha Sehgal  
 *The Centre for Internet and Society*  
