@@ -5,6 +5,10 @@ url: "/research"
 summary: research reports, and repsonses to policy etc
 ---
 
+**[Resilient Digital Infrastructures: Addressing Software Supply Chain Vulnerabilities](https://t20ind.org/research/resilient-digital-infrastructures-addressing-software-supply-chain-vulnerabilities/)**  
+Divyansha Sehgal  
+*T20 India: The Think Tank Arm of the G20*
+
 **[Online Censorship: Perspectives From Content Creators and Comparative Law on Section 69A of the Information Technology Act](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404965)**  
 Divyansha Sehgal, Gurshabad Grover  
 *Preprint*
