@@ -16,7 +16,7 @@ params:
     profileMode:
         enabled: true
         title: "hi there, i'm divyansha" # optional default will be site title
-        subtitle: "research into technology ethics, politics of information & platforms"
+        subtitle: "technology ethics, politics of information & platforms"
         imageUrl: /img/pro pic.jpg # optional
         imageTitle: "profile image" # optional
         imageWidth: 170 # custom size
