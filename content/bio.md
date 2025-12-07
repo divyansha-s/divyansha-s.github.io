@@ -5,8 +5,8 @@ url: "/bio"
 summary: bio
 ---
 
-Divyansha Sehgal is an independent tech researcher primarily studying platforms and their politics. She is also an MPP candidate at the *Harris School of Public Policy* at the University of Chicago. Her research has focused on a variety of tech policy topics including intermediary liability, online gender based violence, platformed labour, privacy, and FOSS.  
+Divyansha Sehgal is a tech policy professional specializing in AI governance, cybersecurity, and platform regulation. She manages technical infrastructure and policy analysis for the Cyber Policy Initiative at the University of Chicago, where she analyzed emerging cybersecurity threats from DEF CON for the Hackers' Almanack report.  
+  
+Her experience spans policy analysis (Google Public Policy Fellowship, United Nations, the Center for Internet and Society), policy operations (Cyber Policy Initiative, FULU Foundation), and project management for software development (Deutsche Bank). She has worked on content moderation, antitrust, digital public infrastructure, privacy, and responsible AI governance.  
 
-Previously, she was a tech researcher at The Centre for Internet and Society, India, and has been awarded the *Young Leaders in Technology Policy* fellowship through the International Innovation Corp (UChicago Center in Delhi) and the Omidyar Foundation. 
-
-She received her undergraduate degree in information science engineering from Cornell University. 
+Divyansha holds an MPP from the University of Chicago's Harris School of Public Policy and a B.S. in Information Science from Cornell University.
