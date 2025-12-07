@@ -50,12 +50,8 @@ menu:
           name: Research 
           url: /research
           weight: 30
-        - identifier: essays 
-          name: Essays
+        - identifier: media 
+          name: Media
           url: /essays
           weight: 40
-        - identifier: blog
-          name: Blog
-          url: 'https://divyansha.substack.com/'
-          weight: 50
 
