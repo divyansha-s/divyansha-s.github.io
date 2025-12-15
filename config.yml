@@ -16,7 +16,7 @@ params:
     profileMode:
         enabled: true
         title: "Hi there, I'm Divyansha" # optional default will be site title
-        subtitle: "Technology Policy & Program Management | Trust & Safety, AI Governance, Cybersecurity"
+        subtitle: "Technology Policy & Program Management | Platform Governance, AI Governance, Cybersecurity"
         imageUrl: /img/pro pic.jpg # optional
         imageTitle: "profile image" # optional
         imageWidth: 170 # custom size
